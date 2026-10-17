@@ -1,5 +1,5 @@
 # Ena's Electrical Engineering Archive
-A thorough list of my favorite EE resources. This list will be regularly updated as I continue my studies.
+A comprehensive list of my favorite EE resources. This list will be regularly updated as I continue my studies.
 ## Table of Contents
 - [Mathematics](#mathematics)
 - [Programming](#programming)
