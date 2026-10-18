@@ -7,11 +7,11 @@ A comprehensive list of my favorite EE resources. This list will be regularly up
 - [Tools](#tools)
 - [Other](#other)
 ## Mathematics
-### Calculus 1
+### Calculus I
 - a
 - b
 - c
-### Calculus 2
+### Calculus II
 - a
 - b
 - c
@@ -49,18 +49,25 @@ A comprehensive list of my favorite EE resources. This list will be regularly up
 - b
 - c
 ## EE Concepts
-### DC/AC Circuit Analysis
+### Circuit Analysis
 - a
 - b
 - c
-### Digital Logic Design
+### Electronics Fundamentals
 - a
 - b
 - c
-### Signals
+### Signals and Systems
 - a
 - b
 - c
+### Electromagnetics
+### Digital Logic and Microprocessors
+### Analog and Electronic Design
+### Power and Energy Systems
+### Control Systems
+### RF and Communications
+### Embedded/VLSI Systems
 ## Tools
 ### KiCad
 ### Altium
@@ -68,5 +75,6 @@ A comprehensive list of my favorite EE resources. This list will be regularly up
 ### AutoCAD
 ### Fusion 360
 ## Other
-### Chemistry 
-### Physics
+### General Chemistry 
+### Physics I: Mechanics
+### Physics II: Electricity and Magnetism
