@@ -1,69 +1,40 @@
 # Ena's Electrical Engineering Archive
 A comprehensive list of my favorite EE resources. This list will be regularly updated as I continue my studies.
-> DISCLAIMER: As of 10/20/2026, I have yet to actually compile this list HAHAHAHA I'll get on it soon probably
-<br></br>
-> DISCLAIMER 2: When I do eventually make this list, if anyone wishes to add other resources, let me know via Outlook!!!
+
 ## Table of Contents
 - [Mathematics](#mathematics)
-- [Programming](#programming)
+- [Languages](#languages)
 - [EE Concepts](#ee-concepts)
 - [Tools](#tools)
 - [Other](#other)
 ## Mathematics
 ### Calculus I
-- a
-- b
-- c
+- [Calculus 1 | Math | Khan Academy](https://www.khanacademy.org/math/calculus-1)
 ### Calculus II
-- a
-- b
-- c
+- [Calculus 2 | Math | Khan Academy](https://www.khanacademy.org/math/calculus-2)
 ### Multivariable Calculus
-- a
-- b
-- c
+- [Multivariable Calculus | Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
 ### Differential Equations
-- a
-- b
-- c
+- [Differential Equations | Khan Academy](https://www.khanacademy.org/math/differential-equations)
 ### Linear Algebra
-- a
-- b
-- c
-### Probability
-- a
-- b
-- c
-## Programming
+- [Linear Algebra | Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+## Languages
+### JavaScript
+- [JavaScript from Beginner to Professional](https://www.gurukultti.org/admin/notice/javascript.pdf)
 ### Python
-- a
-- b
-- c
+- [Python Tutorial](https://www.w3schools.com/python/default.asp)
+- [Learning Python](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 ### C/C++
-- a
-- b
-- c
+- [C Tutorial](https://www.w3schools.com/c/c_intro.php)
+- [C++ Tutorial](https://www.w3schools.com/cpp/default.asp)
 ### MATLAB
-- a
-- b
-- c
+- [Get Started with MATLAB](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)
 ### Verilog
-- a
-- b
-- c
+- [Verilog Tutorial](https://chipverify.com/tutorials/verilog)
 ## EE Concepts
 ### Circuit Analysis
-- a
-- b
-- c
 ### Electronics Fundamentals
-- a
-- b
-- c
 ### Signals and Systems
-- a
-- b
-- c
 ### Electromagnetics
 ### Digital Logic and Microprocessors
 ### Analog and Electronic Design
@@ -73,11 +44,23 @@ A comprehensive list of my favorite EE resources. This list will be regularly up
 ### Embedded/VLSI Systems
 ## Tools
 ### KiCad
+- [Getting Started in KiCad](https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.pdf)
 ### Altium
-### Multisim
+- [Tutorial - A Complete Design Walkthrough with Altium Designer](https://www.altium.com/documentation/altium-designer/tutorial)
+- [Getting Started with PCB Design](https://files.resources.altium.com/sites/default/files/uberflip_docs/file_1163.pdf)
+### LTspice
+- [LTspice Getting Started Guide](https://www.analog.com/media/en/simulation-models/spice-models/ltspicegettingstartedguide.pdf?modelType=spice-models)
+- [Introduction to LTspice](https://web.mit.edu/6.101/www/s2020/handouts/LTSpiceIntro.pdf)
 ### AutoCAD
+- [AutoCAD Quick Start Guide](https://www.autodesk.com/learn/ondemand/curated/autocad-quick-start-guide)
 ### Fusion 360
+- [Self-paced learning for Fusion](https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion)
 ## Other
 ### General Chemistry 
-### Physics I: Mechanics
-### Physics II: Electricity and Magnetism
+- [General Chemistry](https://www.video-tutor.net/general-chemistry.html)
+### Physics I
+### Physics II
+### Miscellaneous
+- [How to write a good README](https://github.com/banesullivan/README)
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
+- [Hardware Project Documentation Template](https://github.com/FracktalWorks/Project-Documentation-Template)
