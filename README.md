@@ -1,4 +1,4 @@
-# Ena's Electrical Engineering Archive
+# Ena's Electrical Engineering Archive ♡
 A comprehensive list of my favorite EE resources. This list will be regularly updated as I continue my studies.
 
 ## Table of Contents
