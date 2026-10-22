@@ -1,13 +1,13 @@
-# Ena's Electrical Engineering Archive ♡
+# Ena's Electrical Engineering Archive 
 A comprehensive list of my favorite EE resources. This list will be regularly updated as I continue my studies.
 
-## Table of Contents
+## ♡ Table of Contents
 - [Mathematics](#mathematics)
 - [Languages](#languages)
 - [EE Concepts](#ee-concepts)
 - [Tools](#tools)
 - [Other](#other)
-## Mathematics
+## ♡ Mathematics
 ### Calculus I
 - [Calculus 1 | Math | Khan Academy](https://www.khanacademy.org/math/calculus-1)
 ### Calculus II
@@ -18,7 +18,7 @@ A comprehensive list of my favorite EE resources. This list will be regularly up
 - [Differential Equations | Khan Academy](https://www.khanacademy.org/math/differential-equations)
 ### Linear Algebra
 - [Linear Algebra | Khan Academy](https://www.khanacademy.org/math/linear-algebra)
-## Languages
+## ♡ Languages
 ### JavaScript
 - [JavaScript from Beginner to Professional](https://www.gurukultti.org/admin/notice/javascript.pdf)
 ### Python
@@ -31,7 +31,7 @@ A comprehensive list of my favorite EE resources. This list will be regularly up
 - [Get Started with MATLAB](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)
 ### Verilog
 - [Verilog Tutorial](https://chipverify.com/tutorials/verilog)
-## EE Concepts
+## ♡ EE Concepts
 ### Circuit Analysis
 ### Electronics Fundamentals
 ### Signals and Systems
@@ -42,7 +42,7 @@ A comprehensive list of my favorite EE resources. This list will be regularly up
 ### Control Systems
 ### RF and Communications
 ### Embedded/VLSI Systems
-## Tools
+## ♡ Tools
 ### KiCad
 - [Getting Started in KiCad](https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.pdf)
 ### Altium
@@ -55,7 +55,7 @@ A comprehensive list of my favorite EE resources. This list will be regularly up
 - [AutoCAD Quick Start Guide](https://www.autodesk.com/learn/ondemand/curated/autocad-quick-start-guide)
 ### Fusion 360
 - [Self-paced learning for Fusion](https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion)
-## Other
+## ♡ Other
 ### General Chemistry 
 - [General Chemistry](https://www.video-tutor.net/general-chemistry.html)
 ### Physics I
