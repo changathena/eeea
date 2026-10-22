@@ -64,3 +64,6 @@ A comprehensive list of my favorite EE resources. This list will be regularly up
 - [How to write a good README](https://github.com/banesullivan/README)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
 - [Hardware Project Documentation Template](https://github.com/FracktalWorks/Project-Documentation-Template)
+- [Documentation of Open Hardware](https://hackmd.io/@Oggo2XIlRZ6wwlsXi_vc8Q/By3DNodtq)
+- [Documenting Your Electronics Project](https://www.digikey.com/en/maker/tutorials/2023/documenting-your-electronics-projects)
+- [Hardware documentation Guide](https://open-make.github.io/Hardware-template-guide/)
